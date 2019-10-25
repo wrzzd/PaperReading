@@ -1,5 +1,5 @@
 ## Neural Network in Mathematical Perspective
-    -- Paper about Neural NetworkReading and Thinking in Mathematical Perspective
+    -- Paper Reading and Thinking about Neural Network in Mathematical Perspective
 
 * spectral bias, Fourier specturm, 
     * [On the Spectral Bias of Neural Networks](https://arxiv.org/abs/1806.08734)
